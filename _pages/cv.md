@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 1039)
-Total output lines: 77
-
 ---
 layout: single
 title: "Curriculum Vitae"
@@ -47,7 +44,7 @@ Production and Completions Engineering (PNG 475); Formation Evaluation (PNG 440W
 
 **Undergraduate Research Co-Mentor, Penn State (summers 2022 and 2023)**
 
-Co-mentored two und…39 tokens truncated…ions.
+Co-mentored two undergraduate researchers with Prof. Arash Dahi Taleghani, providing guidance on hydraulic-fracture modeling, data analysis, technical writing, and presentations.
 
 ## Selected honors
 

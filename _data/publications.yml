@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 2521)
-Total output lines: 176
-
 articles:
 - id: 1
   year: 2026
@@ -41,7 +38,124 @@ articles:
 - id: 8
   year: 2025
   citation: Zhang, Q., Dahi Taleghani, A. Real-Time Temperature Monitoring and Flow Control for Improved Heat Extraction in
-    Enhanced Geothermal Systems.…1521 tokens truncated…orkshop on Geothermal Reservoir Engineering, Stanford University, Stanford, California, 2026.
+    Enhanced Geothermal Systems. Energy, 2025, 134274.
+  selected: false
+- id: 9
+  year: 2025
+  citation: Wang, D., Dong, Y., Wei, C., Zhang, Q., Sheng, M., Yu, B. Expansion-induced fracture propagation in deep geothermal
+    reservoirs under alternate-temperature loading. Advances in Geo-Energy Research, 2025, 15(3), 261-
+  selected: false
+- id: 10
+  year: 2025
+  citation: '10. Ji, K., Zhang, Q., Dahi Taleghani, A., Li, H. Thermal short-circuit mitigation in enhanced geothermal systems:
+    a novel dynamic flow regulation technology using temperature-sensitive viscosity modifiers. Energy Conversion and Management,
+    2025, 343, 120196.'
+  selected: false
+- id: 11
+  year: 2025
+  citation: Ji, K., Dahi Taleghani, A., Liu, S., Zhang, Q., Dai, K., Li, H., Tang, C. A. Comprehensive investigation on the
+    heat extraction performance of a novel enhanced geothermal system based on mining technology. Renewable Energy, 2025,
+    249, 123233.
+  selected: false
+- id: 12
+  year: 2024
+  citation: 'Zhang, Q., Dahi Taleghani, A. Downhole Flow Control: A Key for Developing Enhanced Geothermal Systems in Horizontal
+    Wells. Renewable Energy, 2024, 121578.'
+  selected: false
+- id: 13
+  year: 2024
+  citation: Zhang, Q., Dahi Taleghani, A. Intelligent fluid flow management for enhanced geothermal system in fractured horizontal
+    wells. Applied Thermal Engineering, 2024, 239, 122191.
+  selected: false
+- id: 14
+  year: 2024
+  citation: Al Balushi F, Zhang Q., Dahi Taleghani, A. On the Impact of Proppants Shape, Size Distribution, and Friction on
+    Adaptive Fracture Conductivity in EGS. Geoenergy Science and Engineering, 2024, 213115.
+  selected: false
+- id: 15
+  year: 2024
+  citation: Zhang, Q., Dahi Taleghani, A. , Li, G. Fracture conductivity management to improve heat extraction in enhanced
+    geothermal systems. International Journal of Heat and Mass Transfer, 2024, 218, 124725.
+  selected: true
+- id: 16
+  year: 2023
+  citation: Al Balushi, F., Zhang, Q., Dahi Taleghani, A . Improving enhanced geothermal systems performance using adaptive
+    fracture conductivity. Applied Thermal Engineering, 2023, 233, 121206.
+  selected: false
+- id: 17
+  year: 2023
+  citation: Zhang, Q., Dahi Taleghani, A. Autonomous fracture flow tunning to enhance efficiency of fractured geothermal systems.
+    Energy, 2023, 128163.
+  selected: false
+- id: 18
+  year: 2023
+  citation: Al Balushi, F., Zhang, Q., Dahi Taleghani, A. Autonomous Fracture Conductivity Using Expandable Proppants in Enhanced
+    Geothermal Systems. SPE Journal, 2023, 1-15.
+  selected: false
+- id: 19
+  year: 2023
+  citation: Yue, M., Zhu, W. Y., Gou, F. F., Song, T. R., You, Y. C., Zhang, Q. Impacts of proppant distribution on development
+    of tight oil reservoirs with threshold pressure gradient. Petroleum Science, 2023, 21(1), 445-457.
+  selected: false
+- id: 20
+  year: 2022
+  citation: Zhang, Q., Liu, W. , Dahi Taleghani, A. Numerical study on non-Newtonian Bingham fluid flow in development of
+    heavy oil reservoirs using radiofrequency heating method. Energy, 2022, 239, 122385.
+  selected: false
+- id: 21
+  year: 2022
+  citation: Zhang, Q., Liu, W. , Wei, J., Dahi Taleghani, A. Numerical Simulation Study on Temporary Well Shut-in Method in
+    Development of Shale Oil Reservoir. Energies, 2022, 15(23), 9161.
+  selected: false
+- id: 22
+  year: 2022
+  citation: 'Zhang, Q., Dahi Taleghani, A. On the role of proppants and geomechanics on flowback behavior in complex fracture
+    networks. Journal of Petroleum Science and Engineering, 2022, 216: 110835.'
+  selected: false
+- id: 23
+  year: 2022
+  citation: Liu, W. , Zhang, Q., Dong, Y., Chen, Z., Duan, Y., Sun, H., Yan, X. Analytical and numerical studies on a moving
+    boundary problem of non-Newtonian Bingham fluid flow in fractal porous media. Physics of Fluids, 2022, 34(2),
+  selected: false
+- id: 24
+  year: 2022
+  citation: 24. Liu, W. , Duan, Y., Zhang, Q., Chen, Z., Yan, X., Sun, H., Dahi-Taleghani, A. Analytical study on a one-dimensional
+    model coupling both Darcy flow and low-velocity non-Darcy flow with start-up pressure gradient in heterogeneous composite
+    reservoirs. Journal of Porous Media, 2022, 25 (7).
+  selected: false
+- id: 25
+  year: 2022
+  citation: Zhu, W., Liu, Y., Shi, Y., Zou, G., Zhang, Q., Kong, D. Effect of dynamic threshold pressure gradient on production
+    performance in water-bearing tight gas reservoir. Advances in Geo-Energy Research, 2022, 6(4), 286-
+  selected: false
+- id: 26
+  year: 2020
+  citation: 26. Zhang, Q., Zhu, W. , Liu, W., Yue, M., Song, H. Numerical simulation of fractured vertical well in low-permeable
+    oil reservoir with proppant distribution in hydraulic fracture. Journal of Petroleum Science and Engineering, 2020, 195,
+    107587.
+  selected: false
+- id: 27
+  year: 2020
+  citation: Zhu, W. , Zhang, Q., Yue, M., Zhang, L. Effect of uneven distribution of proppant in fracture network on exploitation
+    dynamic characteristics. Chinese Journal of Engineering, 2020, 42 (10), 1318-1324.
+  selected: false
+- id: 28
+  year: 2020
+  citation: Yue, M., Zhang, Q. , Zhu, W., Zhang, L., Song, H., Li, J. Effect of proppant distribution in fracture networks
+    on horizontal well performance. Journal of Petroleum Science and Engineering, 2020, 187, 106816.
+  selected: false
+- id: 29
+  year: 2019
+  citation: Zhang, Q., Wei, C., Wang, Y., Du, S., Zhou, Y., Song, H. Potential for Prediction of Water Saturation Distribution
+    in Reservoirs Utilizing Machine Learning Methods. Energies, 2019, 12, 3597.
+  selected: false
+conferences:
+- 'Zhang, Q., Dahi Taleghani, A. ICD-Enabled Stress Management to Mitigate Thermal Short-Circuiting in EGS. In 2026 Geothermal
+  Rising Conference: Using the Earth to Save the Earth, Geothermal Resources Council, 2026.'
+- 'Zhang, Q., Dahi Taleghani, A. Simulating Thermal Short-Circuiting in EGS: A Coupled Thermo-Hydro- Mechanical-Wellbore Approach.
+  In ARMA US Rock Mechanics/Geomechanics Symposium, 2026.'
+- Zhang, Q., Dahi Taleghani, A. Modeling the Onset of Thermal Short-Circuiting in EGSs with a Coupled THM- Wellbore Approach.
+  In 51st Workshop on Geothermal Reservoir Engineering, Stanford University, Stanford, California, 2026.
 - 'Zhang, Q., Dahi Taleghani, A. Unlocking Higher Efficiency in CO2-EGS: The Role of Fluid Flow Control. In 2025 Geothermal
   Rising Conference: Using the Earth to Save the Earth, Geothermal Resources Council, 2025.'
 - 'Zhang, Q., Dahi Taleghani, A. Operation Strategy to Avoid Thermal Short-circuit in EGSs with Horizontal Wells. In 2024
