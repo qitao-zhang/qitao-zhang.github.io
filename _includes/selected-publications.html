@@ -1,0 +1,7 @@
+<ul class="academic-publications">
+{% for paper in site.data.publications.articles %}
+  {% if paper.selected %}
+  <li>{{ paper.citation | escape | replace: 'Zhang, Q.', '<strong>Zhang, Q.</strong>' }}</li>
+  {% endif %}
+{% endfor %}
+</ul>

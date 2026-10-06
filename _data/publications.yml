@@ -1,0 +1,62 @@
+Warning: truncated output (original token count: 2521)
+Total output lines: 176
+
+articles:
+- id: 1
+  year: 2026
+  citation: 'Zhang, Q., Dahi Taleghani, A., Zhan, Z., Li, G. Enhanced heat recovery in CO2-enhanced geothermal systems: A
+    temperature-sensitive proppant approach. Applied Thermal Engineering, 2026, 129701.'
+  selected: true
+- id: 2
+  year: 2026
+  citation: Zhang, Q., Dahi Taleghani, A., Ji, K., Hua, W. Coupled Thermo-Hydro-Mechanical-Wellbore Modeling of Thermal Short-Circuiting
+    in Enhanced Geothermal Systems. Energy, 2026, 140038.
+  selected: true
+- id: 3
+  year: 2026
+  citation: 'Du, S., Wang, S., Zhang, Q. High-fidelity spatiotemporal evolution of CO2 storage in saline aquifers: A physics-synergized
+    deep learning framework for CO₂ plume prediction and super-resolution reconstruction. International Journal of Coal Science
+    & Technology, 2026, 13(1), 90.'
+  selected: false
+- id: 4
+  year: 2026
+  citation: Du, S., Wang, S., Zhang, Q. Physics-Informed Hybrid Transformer with Bayesian Optimization for Intelligent Geological
+    CO2 Sequestration Modeling. Energy & Fuels, 2026, 40(23), 12394-12410.
+  selected: false
+- id: 5
+  year: 2026
+  citation: 'Hua, W., Zhang, Q., Dahi Taleghani, A. Repurposing abandoned oil and gas wells for sustainable greenhouse heating:
+    a geothermal energy approach. Applied Thermal Engineering, 2026, 297, 130824.'
+  selected: false
+- id: 6
+  year: 2026
+  citation: Zhan, Z., Zhang, Q., Yu, C., Li, G., Dahi Taleghani, A. Reversible actuation of artificial muscle proppants for
+    self-regulating fracture flow and long-term geothermal sustainability. Renewable Energy. 2026, 126512.
+  selected: false
+- id: 7
+  year: 2025
+  citation: Zhang, Q., Dahi Taleghani, A., Elsworth, D. Underground Energy Storage Using Abandoned Oil & Gas Wells and Assisted
+    by Geothermal. Journal of Energy Storage, 2025, 115317.
+  selected: true
+- id: 8
+  year: 2025
+  citation: Zhang, Q., Dahi Taleghani, A. Real-Time Temperature Monitoring and Flow Control for Improved Heat Extraction in
+    Enhanced Geothermal Systems.…1521 tokens truncated…orkshop on Geothermal Reservoir Engineering, Stanford University, Stanford, California, 2026.
+- 'Zhang, Q., Dahi Taleghani, A. Unlocking Higher Efficiency in CO2-EGS: The Role of Fluid Flow Control. In 2025 Geothermal
+  Rising Conference: Using the Earth to Save the Earth, Geothermal Resources Council, 2025.'
+- 'Zhang, Q., Dahi Taleghani, A. Operation Strategy to Avoid Thermal Short-circuit in EGSs with Horizontal Wells. In 2024
+  Geothermal Rising Conference: Using the Earth to Save the Earth, pp. 1116-1127, Geothermal Resources Council, 2024.'
+- Zhang, Q., Dahi Taleghani, A. Investigating Fracture Growth After Shut-In. In SPE Annual Technical Conference and Exhibition.
+  OnePetro, 2024.
+- Zhang, Q., Dahi Taleghani, A. Downhole Flow Management to Enhance Efficiency of Fractured Geothermal Systems in Horizontal
+  Wells. In 49th Workshop on Geothermal Reservoir Engineering, Stanford University, Stanford, California, 2024.
+- Zhang, Q., Dahi Taleghani, A. On tunable fracture conductivity to improve heat extraction from fractured geothermal systems.
+  In 48th Workshop on Geothermal Reservoir Engineering, Stanford University, Stanford, California, 2023.
+- 'Zhang, Q., Dahi Taleghani, A. Variable Fracture Conductivity to Enhance Heat Extraction in EGS. In 2022 Geothermal Rising
+  Conference: Using the Earth to Save the Earth, pp. 542-551, Geothermal Resources Council,'
+- 10. Zhang, Q., Zhu, W., Liu, W., Shi, Y., Yan, J. Study on Characteristics of Water-Gas Flow in Tight Gas Reservoir with
+  High Water Saturation. Gas Injection into Geological Formations and Related Topics, 2020, 321-332.
+- Zhu, W., Huang, K., Sun, Y., Zhang, Q. The Description and Modeling of Gas Override in Condensate Gas Reservoir. Gas Injection
+  into Geological Formations and Related Topics, 2020, 333-342.
+- Huang, K., Zhu, W., Zhang, Q., Xia, J., Luo, K. The Study on the Gas Override Phenomenon in Condensate Gas Reservoir. Gas
+  Injection into Geological Formations and Related Topics, 2020, 311-319.
